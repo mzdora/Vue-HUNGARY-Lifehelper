@@ -3,7 +3,7 @@ Vue项目正式启动，我会在两三天内写好所有的说明文档和代�
 该项目是个Web前端项目，涉及到的技术栈是:HTML,CSS,JAVASCRIPT,VUE,GIT.
 该项目是个仿美团类APP，
 
-<img src="C:\Users\mzdor\Documents\Tencent Files\995113876\FileRecv\MobileFile\IMG_5585.PNG" alt="IMG_5585" style="zoom:25%;" /><img src="C:\Users\mzdor\Documents\Tencent Files\995113876\FileRecv\MobileFile\IMG_5584.PNG" alt="IMG_5584" style="zoom: 25%;" />
+<img src="https://github.com/mzdora/Vue-HUNGARY-Lifehelper/blob/master/graphs/IMG_5584.PNG?raw=true" alt="IMG_5585" style="zoom:25%;" /><img src="https://github.com/mzdora/Vue-HUNGARY-Lifehelper/blob/master/graphs/IMG_5585.PNG?raw=true" alt="IMG_5584" style="zoom: 25%;" />
 
 
 
