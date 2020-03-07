@@ -2,7 +2,7 @@
     <div>
         <home-header></home-header>
         <home-swiper></home-swiper>
-        <div>test</div>
+        <div>接下来是实现标签栏</div>
     </div>
 </template>
 

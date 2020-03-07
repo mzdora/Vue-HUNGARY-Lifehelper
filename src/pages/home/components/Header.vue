@@ -31,20 +31,20 @@ export default {
         .header-face
             float: left
             margin-top : .3rem
-            margin-left: .1rem
+            margin-left: .2rem
             .front-icon
-                margin-top : -.1rem
+                margin-top : -.2 rem
                 font-size: .6rem
         .header-left
             float: left
             margin-top : .3rem
-            margin-left: .1rem
+            margin-left: .2rem
         .header-input
             flex: 1
             height: .64rem
             line-height: .64rem
-            margin-top: .12rem
-            margin-left : .20rem
+            margin-top: .10rem
+            margin-left : .30rem
             background : #fff
             border-radius: .1rem
             color : #ccc
@@ -52,7 +52,7 @@ export default {
         .header-right
             width: 1.24rem
             float: right
-            margin-top : .2rem
+            margin-top : .1rem
             text-align: center
             .back-icon
                 font-size: .6rem
