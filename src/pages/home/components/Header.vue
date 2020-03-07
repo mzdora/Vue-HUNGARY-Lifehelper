@@ -1,9 +1,18 @@
 <template>
     <div class="header">
-        <div class="header-face">头像</div>
-        <div class="header-left">布达佩斯</div>
-        <div class="header-input">布达佩斯火车站</div>
-        <div class="header-right">城市</div>
+        <div class="header-face">
+            <div class="iconfont front-icon">&#xe6de;</div>
+        </div>
+        <div class="header-left">
+            <span class="iconfont">&#xe624;</span>
+        </div>
+        <div class="header-input">
+            <span class="iconfont">&#xe632;</span>
+            布达佩斯火车站
+        </div>
+        <div class="header-right">
+            <div class="iconfont back-icon">&#xe783;</div>
+        </div>
     </div>
 </template>
 
@@ -23,6 +32,9 @@ export default {
             float: left
             margin-top : .3rem
             margin-left: .1rem
+            .front-icon
+                margin-top : -.1rem
+                font-size: .6rem
         .header-left
             float: left
             margin-top : .3rem
@@ -40,6 +52,8 @@ export default {
         .header-right
             width: 1.24rem
             float: right
-            margin-top : .3rem
+            margin-top : .2rem
             text-align: center
+            .back-icon
+                font-size: .6rem
 </style>
