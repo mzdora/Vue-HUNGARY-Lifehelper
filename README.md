@@ -8,7 +8,7 @@
       - src(项目的源代码)
         - assets(图片往这里放)
         - components(小组件往这里放)
-        -router(路由往这里放)
+        - router(路由往这里放)
           - index.js
          - App.vue(根组件)
          - main.js(项目的入口文件)
