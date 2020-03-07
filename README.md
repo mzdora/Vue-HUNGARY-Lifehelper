@@ -1,18 +1,18 @@
 # Vue-HUNGARY-Lifehelper
-项目规范要求:
-  -项目树
-    -build(项目打包)
-    -config(项目配置文件)
-    -graphs(设计图)
-    -node_modules(项目依赖第三方包)
-    -src(项目的源代码)
-      -assets(图片往这里放)
-      -components(小组件往这里放)
-      -router(路由往这里放)
-        -index.js
-       -App.vue(根组件)
-       -main.js(项目的入口文件)
-    -static(存放静态资源)
+- 项目规范要求:
+    - 项目树
+      - build(项目打包)
+      - config(项目配置文件)
+      - graphs(设计图)
+      - node_modules(项目依赖第三方包)
+      - src(项目的源代码)
+        - assets(图片往这里放)
+        - components(小组件往这里放)
+        -router(路由往这里放)
+          - index.js
+         - App.vue(根组件)
+         - main.js(项目的入口文件)
+      - static(存放静态资源)
 
 如果对项目树有任何修改，请及时在该页面更新，并且写明理由。
 请全程使用Git对该项目增删改查。
