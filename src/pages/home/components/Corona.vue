@@ -18,7 +18,7 @@
 <style lang="stylus" scoped>
     .title
         line-height: .6rem
-        background: #eee
+        background: #FFA500
         text-indent: .2rem
     .item-img-wrapper
         overflow: hidden
@@ -27,8 +27,10 @@
         .item-img
             width: 100%
     .item-title
+        font-weight:bold
+        color:#FFA500
         line-height: .54rem
-        font-size: .32rem
+        font-size: .36rem
     .item-desc
         line-height: .3rem
         color: #ccc
@@ -43,8 +45,8 @@ export default {
             recommendList:[{
                 id: '0001',
                 imgUrl: 'https://koronavirus.gov.hu/sites/default/files/sites/default/files/imce/hatar.jpg',
-                title:'采取特别措施：从午夜开始实施边境管制',
-                desc:'冠状病毒Corona现在正式成为全球流行病。政府宣布了紧急状态和紧急措...'
+                title:'采取特别措施：',
+                desc:'从午夜开始实施边境管制,冠状病毒Corona现在正式成为全球流行病。政府宣布了紧急状态和紧急措...'
             },
             {
                 id: '0002',

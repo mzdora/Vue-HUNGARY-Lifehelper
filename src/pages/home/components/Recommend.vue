@@ -17,7 +17,7 @@
 <style lang="stylus" scoped>
     .title
         line-height: .6rem
-        background: #eee
+        background: #ccc
         text-indent: .2rem
     .item
         overflow:hidden
